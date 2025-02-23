@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "name": "Aman Sharma",
+      "email": "aman@gmail.com",
+      "password": "aman1234"
+    },
+    {
+      "id": "cc00",
+      "name": "Sakshi Sharma",
+      "email": "sakshi@gmail.com",
+      "password": "sakshi1234"
+    },
+    {
+      "id": "1b2a",
+      "name": "aman",
+      "email": "aman@gmail.com",
+      "password": "aman1233"
+    }
+  ]
+}

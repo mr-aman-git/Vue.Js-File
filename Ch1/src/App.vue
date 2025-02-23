@@ -2,17 +2,17 @@
 
 <template>
 
-<SignUp />
+<practice />
 
 </template>
 
 <script>
-import SignUp from "./components/SignUp.vue";
+import practice from "./components/practice.vue";
 
 export default{
     name: 'App',
     components:{
-      SignUp
+      practice
     }
 }
 </script>
